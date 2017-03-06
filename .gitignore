@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 */target/**
+=======
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+>>>>>>> c2ec60348d53712a2ff75cf0f63f1187008e433b
